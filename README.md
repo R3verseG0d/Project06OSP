@@ -1,3 +1,5 @@
+Disclaimer: I don't own this nor am I trying to claim ownership. You have the right to know what your code does! I declare the open source revolution.
+
 All the source code is here and the rest is in Mega. I will also publish the copy of Project 06 that I ripped from in another Mega folder. Would have published here but it's larger than 2 gb.
 
 Unfortunately Github doesn't like when I try to commit large files. The Total size of the source comes out to around 14.8 GB. 
